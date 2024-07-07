@@ -61,3 +61,7 @@ whereas in the vite app, we have the following configuration, hence getting the 
 - first is to make sure that we are using jsx and not js extension for the files
 - second is to use capital letter for the file name and its usage in the other files.
 - BUT this is not mandatory in case of create-react-app
+
+# creating our own react project from scratch
+
+1. How react looks at things? React looks at everything as object and inside this object we need to provide what we need to create. The object should contain the information about the type of tag we want to create, the parameters and the text associated to those tags.
