@@ -55,3 +55,9 @@ whereas in the vite app, we have the following configuration, hence getting the 
 ```
 
 > if we are returning any html from the js then we should name the file with jsx
+
+3. Componenets that we create have some hard requirements in case we are using vite.
+
+- first is to make sure that we are using jsx and not js extension for the files
+- second is to use capital letter for the file name and its usage in the other files.
+- BUT this is not mandatory in case of create-react-app
